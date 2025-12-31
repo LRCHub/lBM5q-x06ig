@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ユラユラ",
+  "base_artist": "BENI",
+  "createdAt": "2025-12-31T08:15:51.346244Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ユラユラ",
+      "artist": "Hearts Grow",
+      "has_synced": true,
+      "path": "select/01_ユラユラ_Hearts_Grow.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ユラユラ",
+      "artist": "ANISON PROJECT",
+      "has_synced": false,
+      "path": "select/02_ユラユラ_ANISON_PROJECT.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ユラユラ(第203話〜220話)",
+      "artist": "西田真由美 & 高良祐子",
+      "has_synced": true,
+      "path": "select/03_ユラユラ(第203話〜220話)_西田真由美_&_高良祐子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ユラユラ (第203-220話 OP)",
+      "artist": "西田真由美&高良祐子",
+      "has_synced": true,
+      "path": "select/04_ユラユラ_(第203-220話_OP)_西田真由美&高良祐子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ユラユラ",
+      "artist": "Hearts Grow",
+      "has_synced": true,
+      "path": "select/05_ユラユラ_Hearts_Grow.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ユラユラ - Yura Yura",
+      "artist": "Hearts Grow",
+      "has_synced": true,
+      "path": "select/06_ユラユラ_-_Yura_Yura_Hearts_Grow.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ユラユラ",
+      "artist": "Soraru",
+      "has_synced": true,
+      "path": "select/07_ユラユラ_Soraru.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ユラユラ",
+      "artist": "Hearts Grow",
+      "has_synced": true,
+      "path": "select/08_ユラユラ_Hearts_Grow.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ユラユラ",
+      "artist": "BENI",
+      "has_synced": false,
+      "path": "select/pl_01_ユラユラ_BENI.txt"
+    }
+  ]
+}
